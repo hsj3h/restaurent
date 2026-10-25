@@ -1,0 +1,10 @@
+{
+  "description": "Explore a vibrant anime-inspired sushi restaurant website offering an immersive menu, story, gallery, and seamless ordering and reservation experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
